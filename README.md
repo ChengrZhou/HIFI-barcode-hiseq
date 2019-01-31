@@ -6,8 +6,8 @@ HIFIBarcode is used to produce full-length COI barcodes from pooled PCR amplicon
 
 
 ### Change logs
-- HIFIBarcode v2.0.0, 201901. <b>HUGE CHANGE</b>: 
-	- We change programming language form PERL to Python3. We will not update old version(perl) anymore. 
+- HIFIBarcode v2.0.0 beta, 201901. <b>HUGE CHANGE</b>: 
+	- We change programming language form PERL to Python3. 
 	- This python version is about 15 times fast than perl version, highly recommending to use this version!
 	- It will not neet cmr to connect paired reads.
 - HIFIBarcode v1.3.0, 201805. fix a bug on step5 mid.lis
